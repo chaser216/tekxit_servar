@@ -1,0 +1,2 @@
+print(peripheral.getType("right"))
+
